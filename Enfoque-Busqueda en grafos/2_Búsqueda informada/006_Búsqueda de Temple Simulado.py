@@ -13,7 +13,7 @@ def temple_simulado(funcion, solucion_inicial, temperatura_inicial=1000, enfriam
     Implementación del Temple Simulado.
 
     Args:
-        funcion: Función a minimizar.
+        funcion: Función a minimizar
         solucion_inicial: [x, y].
         temperatura_inicial: Temperatura inicial (controla la exploración).
         enfriamiento: Tasa de reducción de temperatura (0 < enfriamiento < 1).
